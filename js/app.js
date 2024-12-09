@@ -7,3 +7,8 @@ const app = Vue.createApp({
 });
 
 app.mount("#app");
+
+const images = document.querySelectorAll("img");
+for (const img of images) {
+    img.setAttribute("draggable", false);
+}
