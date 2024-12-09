@@ -1,3 +1,17 @@
 html {
     font: 1rem/1.5 Rubik, Arial, sans-serif;
 }
+
+.header {
+    display: flex;
+    align-items: center;
+
+    h1 {
+        order: 1;
+        user-select: none;
+    }
+
+    img {
+        width: 65px;
+    }
+}
