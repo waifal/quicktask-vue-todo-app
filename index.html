@@ -22,6 +22,15 @@
                     <h1>{{ title }}</h1>
                     <img src="assets/icon.gif" alt="QuickTask Logo" />
                 </header>
+                <div class="body">
+                    <form>
+                        <input type="text" id="input-task" name="input-task" placeholder="Enter task" />
+                        <button type="submit">Submit Task</button>
+                    </form>
+                    <ul>
+                        <li v-for="task in tasks" :key="task">{{ task }}</li>
+                    </ul>
+                </div>
             </div>
         </div>
         <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
