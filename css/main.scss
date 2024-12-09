@@ -7,6 +7,14 @@ body {
 }
 
 .container {
+    width: 500px;
+    height: 500px;
+    padding: 25px;
+    border-radius: 20px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
     background-image: linear-gradient(50deg, rgba(235,231,231,1) 0%, rgba(255,255,255,1) 50%, rgba(235,231,231,1) 100%);
 }
 
