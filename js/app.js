@@ -11,6 +11,8 @@ const app = Vue.createApp({
             if (input.value.trim() !== "") {
                 this.tasks.push(input.value);
                 input.value = "";
+            } else if (input.value === "") {
+                alert("Please enter a task...");
             }
         },
     },
