@@ -2,13 +2,15 @@
 
 ## To-Do
 
-1. Create `style` for the task items
-    - Add accomplishment feature
-2. Add `check button` to task items
-3. Add `delete button` to task items
-4. Make page `responsive`
-5. Add `time` functionality to task items
-6. Change body `background-color`
+1. Add `styling` to the task items
+2. Add interactive buttons to the task items (i.e., complete and delete)
+4. Add `time/calendar` functionality
+5. Add `reminder` functionality
+6. Add `completion` functionality
+7. Add `category` function
+8. Add `search` function
+9. Change body `background-color`
+10. Add `Responsive Web Design`
 
 This app was created with HTML, SCSS, JS and Vue.js
 
