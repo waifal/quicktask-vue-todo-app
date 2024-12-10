@@ -7,16 +7,21 @@ Through this project, I’ll learn to use Vue’s reactive features and componen
 ## To-Do
 
 1. Add `styling` to the task items
-2. Add interactive buttons to the task items (i.e., complete and delete)
-3. Add `time/calendar` functionality
-4. Add `reminder` functionality
-5. Add `completion` tracking
-6. Add `category` management
-7. Add `search` functionality
-8. Add `Web Storage API` to save tasks
-9. Add `drag and drop` functionality to move tasks around
-10. Change body `background-color`
-11. Add `Responsive Web Design`
+2. Add the `most recent` added task to the top of the body section
+3. Add interactive buttons to the task items (i.e., complete and delete)
+4. Add `time/calendar` functionality
+5. Add `reminder` functionality
+6. Add `completion` tracking
+7. Add `category` management
+    1. Include `icons` foreach category
+    2. Add `option` to include icons when naming category
+8. Add `search` functionality
+9. Add `sound` foreach task item checked and removed
+    1. Include `option` to turn off sound
+10. Add `Web Storage API` to save tasks
+11. Add `drag and drop` functionality to move tasks around
+12. Change body `background-color`
+13. Add `Responsive Web Design`
 
 This web app was created with HTML, SCSS, JavaScript and Vue.js
 
