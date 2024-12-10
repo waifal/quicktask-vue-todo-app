@@ -24,4 +24,8 @@ This web app was created with HTML, SCSS, JavaScript and Vue.js
 
 Version 0.1 - **10/12/2024:**
 
-![Example Image](example.png)
+![Example 2 Image](examples/example-1.png)
+
+Version 0.1.1 - **11/12/2024:**
+
+![Example Image](examples/example-2.png)
