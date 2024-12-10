@@ -72,7 +72,5 @@ body {
 }
 .body ul li {
   font-size: 0.85rem;
-}
-.body ul li::marker {
-  color: #ffa500;
+  list-style-type: none;
 }/*# sourceMappingURL=main.css.map */

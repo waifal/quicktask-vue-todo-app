@@ -80,10 +80,7 @@ body {
     ul {
         li {
             font-size: 0.85rem;
-
-            &::marker {
-                color: #ffa500;
-            }
+            list-style-type: none;
         }
     }
 }
