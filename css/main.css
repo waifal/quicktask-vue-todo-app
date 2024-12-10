@@ -70,6 +70,9 @@ body {
 .body form button:hover {
   background-color: #ffad16;
 }
+.body ul li {
+  font-size: 0.85rem;
+}
 .body ul li::marker {
   color: #ffa500;
 }/*# sourceMappingURL=main.css.map */
