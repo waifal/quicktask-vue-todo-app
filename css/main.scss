@@ -31,3 +31,49 @@ body {
         width: 65px;
     }
 }
+
+.body {
+    form {
+        $frm-children-height: 45px;
+        display: flex;
+
+        #input-task {
+            flex: 1;
+            font: inherit;
+            font-size: 0.852rem;
+            height: $frm-children-height;
+            padding: 0 25px;
+            border: none;
+            border-radius: 45px;
+            box-sizing: border-box;
+            background-color: rgb(222, 225, 228);
+
+            &:focus {
+                outline: none;
+            }
+        }
+
+        button {
+            width: 100px;
+            height: $frm-children-height;
+            padding: 10px;
+            color: #FFF;
+            font: inherit;
+            font-weight: bold;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            border: none;
+            border-radius: 45px;
+            cursor: pointer;
+            position: absolute;
+            right: 4%;
+            background-color: #ffa500;
+            transition-property: background-color;
+            transition-duration: 0.5s;
+
+            &:hover {
+                background-color: #ffad16;
+            }
+        }
+    }
+}
