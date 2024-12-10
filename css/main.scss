@@ -60,7 +60,7 @@ body {
             color: #FFF;
             font: inherit;
             font-weight: bold;
-            font-size: 0.85rem;
+            font-size: 0.75rem;
             text-transform: uppercase;
             border: none;
             border-radius: 45px;
@@ -74,6 +74,12 @@ body {
             &:hover {
                 background-color: #ffad16;
             }
+        }
+    }
+
+    ul {
+        li::marker {
+            color: #ffa500;
         }
     }
 }
