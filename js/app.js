@@ -21,7 +21,6 @@ const app = Vue.createApp({
 app.mount("#app");
 
 const input = document.getElementById("input-task");
-
 const images = document.querySelectorAll("img");
 for (const img of images) {
     img.setAttribute("draggable", false);
