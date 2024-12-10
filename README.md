@@ -14,8 +14,9 @@ Through this project, I’ll learn to use Vue’s reactive features and componen
 6. Add `category` management
 7. Add `search` functionality
 8. Add `Web Storage API` to save tasks
-9. Change body `background-color`
-10. Add `Responsive Web Design`
+9. Add `drag and drop` functionality to move tasks around
+10. Change body `background-color`
+11. Add `Responsive Web Design`
 
 This web app was created with HTML, SCSS, JavaScript and Vue.js
 
