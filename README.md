@@ -9,8 +9,9 @@
 6. Add `completion` functionality
 7. Add `category` function
 8. Add `search` function
-9. Change body `background-color`
-10. Add `Responsive Web Design`
+9. Add `Web Storage API` to save tasks
+10. Change body `background-color`
+11. Add `Responsive Web Design`
 
 This app was created with HTML, SCSS, JS and Vue.js
 
